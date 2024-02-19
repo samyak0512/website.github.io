@@ -4,7 +4,7 @@
 
 Explore my meticulously crafted portfolio showcasing my skills and standout projects. Elevate your expectations as you delve into a world of creativity and innovation, all developed by my own hands.
 
-🔗https://samyak0512.me/
+🔗(https://samyak0512.github.io/website.github.io/)
 
 
 ## Developed using
